@@ -1,19 +1,12 @@
-  - {name: 🇺🇸 美国 惠普HP, server: 16.171.202.73, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.miwan.co.uk, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 CloudFlare节点, server: 172.67.217.144, port: 80, type: vmess, uuid: 85674552-ce41-44d9-bb2a-50f76450b3d8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: lv1.xv2ray.net}}}
-  - {name: 🇨🇳 台湾省桃园市 中华电信(HiNet), server: 220.141.155.173, port: 2203, type: ss, cipher: chacha20-ietf-poly1305, password: d20b031e-a477-45f1-8bfc-4cbea413a44e}
-  - {name: 🇺🇸 美国 CloudFlare节点 2, server: 104.18.203.232, port: 2095, type: trojan, password: wzZ-GniK9AYHUjn7LmoAmw, skip-cert-verify: false}
-  - {name: 🇩🇪 德国 黑森州法兰克福Amazon数据中心, server: 3.124.59.183, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.miwan.co.uk, skip-cert-verify: false}
-  - {name: 🇮🇪 爱尔兰 都柏林Amazon数据中心, server: 34.246.126.130, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.miwan.co.uk, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 Amazon数据中心, server: 18.168.50.183, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trj.rollingnext.co.uk, skip-cert-verify: false}
-  - {name: 🇨🇳 台湾省 晟崴科技股份有限公司, server: 103.118.29.229, port: 80, type: vmess, uuid: eb9e8a52-0fec-4a10-8d16-af3b32874933, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /5gtocdocao.com, headers: {Host: lienquan.garena.vn}}}
-  - {name: 🇺🇸 美国 3COM公司企业网, server: 152.67.55.44, port: 7703, type: ss, cipher: aes-256-gcm, password: a952636a-0334-499c-97b6-797995b6fa28}
-  - {name: 🇮🇷 伊朗 V2CROSS.COM, server: es---join.outline-vpn.cloud, port: 16767, type: vmess, uuid: d30a1c51-d37c-4cb8-bee6-8f5cd746f9d7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 V2CROSS.COM, server: 167.235.154.147, port: 8080, type: trojan, password: Telegram-join-v2ray_kasra, sni: Sudo.v2raykasra.shop, skip-cert-verify: false}
+  - {name: 🇺🇸 美国 CloudFlare节点, server: 104.16.30.241, port: 2095, type: trojan, password: wzZ-GniK9AYHUjn7LmoAmw, skip-cert-verify: false}
+  - {name: 🇺🇸 美国 CloudFlare节点 2, server: cf.178820225.xyz, port: 80, type: vmess, uuid: 8fa261c0-ae8d-4aee-8f8b-1604b6f78f4a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /thdgfdfdfg, headers: {Host: dev6.178820225.xyz}}}
+  - {name: 🇨🇳 台湾省 中华电信(HiNet)数据中心, server: 118.167.76.233, port: 2024, type: vmess, uuid: d20b031e-a477-45f1-8bfc-4cbea413a44e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇺🇸 美国 CloudFlare节点 3, server: www.speedtest.net, port: 2095, type: trojan, password: wzZ-GniK9AYHUjn7LmoAmw, skip-cert-verify: false}
+  - {name: 乌克兰 V2CROSS.COM, server: 91.242.229.77, port: 80, type: vmess, uuid: 56890326-df58-432d-be1e-67064e2b4355, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess}}
+  - {name: 🇺🇸 美国 V2CROSS.COM, server: 168.138.141.222, port: 7704, type: ss, cipher: aes-256-gcm, password: 85262d4b-50eb-4c9e-9803-bf27c5ac773a}
+  - {name: 🇺🇸 美国 V2CROSS.COM 2, server: fell4.dogsvpn.top, port: 7704, type: ss, cipher: aes-256-gcm, password: 85262d4b-50eb-4c9e-9803-bf27c5ac773a}
   - {name: 广东省 移动, server: data-us-v1.shwjfkw.cn, port: 20401, type: vmess, uuid: b1478e24-4916-3abe-8f17-15931012ecbe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /debian, headers: {Host: data-us-v1.shwjfkw.cn}}}
-  - {name: 🇺🇸 美国 V2CROSS.COM 2, server: 172.99.190.109, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: linkvws}}
-  - {name: 🇧🇬 保加利亚 V2CROSS.COM, server: 93.123.17.132, port: 80, type: vmess, uuid: f0028153-2a2d-45fe-b44e-a1a6dbd0c65e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /@forwardv2ray, headers: {Host: saman8888.servecounterstrike.com}}}
-  - {name: 🇬🇧 英国 伦敦Amazon数据中心, server: 3.11.191.199, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.miwan.co.uk, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 V2CROSS.COM 3, server: 45.159.250.78, port: 8443, type: vmess, uuid: f3a14df7-6140-45d7-9b36-9cbac435c0a9, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false}
-  - {name: 🇷🇺 俄罗斯 莫斯科JustHost, server: 45.144.2.113, port: 80, type: vmess, uuid: 88bd03e6-5ada-42da-9e77-448cd8c60e13, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}}
-  - {name: 🇺🇸 美国 Amazon EC2服务器, server: 3.79.147.209, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.miwan.co.uk, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 Amazon数据中心 2, server: 13.37.81.241, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.miwan.co.uk, skip-cert-verify: false}
+  - {name: 🇺🇸 美国 V2CROSS.COM 3, server: 172.99.190.109, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: linkvws}}
+  - {name: 🇺🇸 美国 V2CROSS.COM 4, server: 146.190.105.144, port: 42766, type: trojan, password: Fn4rFdIWwW, sni: m.zoom.us, skip-cert-verify: false}
+  - {name: 🇱🇹 立陶宛 V2CROSS.COM, server: 84.32.230.67, port: 19060, type: trojan, password: gJU6FgYDjV, skip-cert-verify: false}
+  - {name: 亚太地区 V2CROSS.COM, server: 103.149.87.45, port: 443, type: trojan, password: fbccfed7-1aeb-416a-a4fd-7af1747f9f3b, sni: lienquan.garena.vn, skip-cert-verify: false}
