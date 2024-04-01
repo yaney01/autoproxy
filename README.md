@@ -521,7 +521,7 @@ high-speed node quantity: `200`
 - you can import these 200 tested nodes using their subscription link into different clients. refer to `Instructions & Usage` section
 
 ### all nodes
-merge nodes w/o dup: `4810`
+merge nodes w/o dup: `4922`
 - [Node link Mixed (V2ray)](https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/sub_merge.txt)
 - [Node link Yaml (Clash)](https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge_yaml.yml)
 
@@ -544,7 +544,7 @@ merge nodes w/o dup: `4810`
 
 
 ### node sources
-- [pojiezhiyuanjun/freev2](https://github.com/pojiezhiyuanjun/freev2), number of nodes: `113`
+- [pojiezhiyuanjun/freev2](https://github.com/pojiezhiyuanjun/freev2), number of nodes: `107`
 - [Nodefree.org](https://github.com/Fukki-Z/nodefree), number of nodes: `49`
 - [mianfeifq/share](https://github.com/mianfeifq/share), number of nodes: `158`
 - [FiFier/v2rayShare](https://github.com/FiFier/v2rayShare), number of nodes: `20`
@@ -565,9 +565,10 @@ merge nodes w/o dup: `4810`
 - [mfuu/v2ray](https://github.com/mfuu/v2ray), number of nodes: `371`
 - [freefq/free](https://github.com/freefq/free), number of nodes: `14`
 - [xiyaowong/freeFQ](https://github.com/xiyaowong/freeFQ), number of nodes: `156`
+- [yaney01/Yaney01](https://github.com/yaney01/Yaney01), number of nodes: `27`
 - [YasserDivaR/pr0xy](https://github.com/YasserDivaR/pr0xy), number of nodes: `1385`
-- [peasoft/NoMoreWalls](https://github.com/peasoft/NoMoreWalls), number of nodes: `356`
-- [mahdibland/get_v2](https://github.com/mahdibland/get_v2), number of nodes: `2380`
+- [peasoft/NoMoreWalls](https://github.com/peasoft/NoMoreWalls), number of nodes: `407`
+- [mahdibland/get_v2](https://github.com/mahdibland/get_v2), number of nodes: `2337`
 - [freebaipiao/freebaipiao](https://github.com/freebaipiao/freebaipiao), number of nodes: `6`
 - [huwo1/proxy_nodes](https://bitbucket.org/huwo1/proxy_nodes/src/main), number of nodes: `183`
 - [lisylva-lee/v2dyku](https://github.com/lisylva-lee/v2dyku), number of nodes: `5`
