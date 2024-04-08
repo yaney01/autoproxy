@@ -521,7 +521,7 @@ high-speed node quantity: `200`
 - you can import these 200 tested nodes using their subscription link into different clients. refer to `Instructions & Usage` section
 
 ### all nodes
-merge nodes w/o dup: `4695`
+merge nodes w/o dup: `4627`
 - [Node link Mixed (V2ray)](https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/sub_merge.txt)
 - [Node link Yaml (Clash)](https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge_yaml.yml)
 
@@ -546,8 +546,8 @@ merge nodes w/o dup: `4695`
 ### node sources
 - [pojiezhiyuanjun/freev2](https://github.com/pojiezhiyuanjun/freev2), number of nodes: `43`
 - [Nodefree.org](https://github.com/Fukki-Z/nodefree), number of nodes: `49`
-- [mianfeifq/share](https://github.com/mianfeifq/share), number of nodes: `164`
-- [FiFier/v2rayShare](https://github.com/FiFier/v2rayShare), number of nodes: `20`
+- [mianfeifq/share](https://github.com/mianfeifq/share), number of nodes: `148`
+- [FiFier/v2rayShare](https://github.com/FiFier/v2rayShare), number of nodes: `49`
 - [colatiger/v2ray-nodes](https://github.com/colatiger/v2ray-nodes), number of nodes: `121`
 - [ssrsub/ssr](https://github.com/ssrsub/ssr), number of nodes: `261`
 - [mahdibland/ShadowsocksAggregator](https://github.com/mahdibland/ShadowsocksAggregator), number of nodes: `200`
@@ -566,7 +566,7 @@ merge nodes w/o dup: `4695`
 - [freefq/free](https://github.com/freefq/free), number of nodes: `14`
 - [xiyaowong/freeFQ](https://github.com/xiyaowong/freeFQ), number of nodes: `156`
 - [YasserDivaR/pr0xy](https://github.com/YasserDivaR/pr0xy), number of nodes: `1385`
-- [peasoft/NoMoreWalls](https://github.com/peasoft/NoMoreWalls), number of nodes: `80`
+- [peasoft/NoMoreWalls](https://github.com/peasoft/NoMoreWalls), number of nodes: `72`
 - [mahdibland/get_v2](https://github.com/mahdibland/get_v2), number of nodes: `2380`
 - [freebaipiao/freebaipiao](https://github.com/freebaipiao/freebaipiao), number of nodes: `6`
 - [huwo1/proxy_nodes](https://bitbucket.org/huwo1/proxy_nodes/src/main), number of nodes: `183`
