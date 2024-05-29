@@ -1,50 +1,46 @@
+  - {name: 🇰🇷 韩国 蘑菇主机BGP数据中心, server: 103.214.68.57, port: 10001, type: vmess, uuid: ebca5f68-bf59-4081-e658-f158839c2f5c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false}
   - {name: 🇫🇷 法国 OVH机房SAS硬盘BGP主机, server: 149.202.82.172, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: 广东省 移动, server: m.cnmjin.net, port: 16632, type: vmess, uuid: 2b8cfb7b-d3e7-4525-8418-e13a9b8fd73b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: dcef278233434a15c3587ef998dd119d.mobgslb.tbcache.com}}}
-  - {name: 广东省 移动 2, server: 120.233.204.126, port: 16632, type: vmess, uuid: d9a9d508-67e1-4929-8bea-8733d5a30c93, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: ee1683cb66f83a1d45e5fdf2e7bdc7dd.mobgslb.tbcache.com}}}
-  - {name: 🇺🇸 美国 V2CROSS.COM, server: 167.71.209.134, port: 443, type: trojan, password: j0GM8nFJVq, sni: aka.ms, skip-cert-verify: false}
-  - {name: 广东省佛山市 移动, server: 183.232.199.61, port: 61001, type: vmess, uuid: aaaaaaaa-aaaa-aaaa-aaaa-daaaaaaaaaad, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇫🇷 法国 OVH, server: 51.77.53.200, port: 4444, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
-  - {name: 🇫🇷 法国 OVH 2, server: 51.77.53.200, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: 🇭🇰 香港 环球全域电讯, server: 210.3.159.224, port: 12909, type: vmess, uuid: 8259cb1c-dd6c-4739-9c88-af550d977525, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /}}
-  - {name: 🇫🇷 法国 OVH机房SAS硬盘BGP主机 2, server: 149.202.82.172, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: 🇮🇳 印度 V2CROSS.COM, server: 103.238.235.207, port: 80, type: vmess, uuid: 9e5999ba-870a-46b1-8500-37c640371ec6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: bs5.loadingip.com, network: ws, ws-opts: {path: /bs}}
-  - {name: 🇮🇹 意大利 V2CROSS.COM, server: 212.102.53.195, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
-  - {name: 🇨🇳 中国 阿里云, server: 8.222.181.139, port: 443, type: trojan, password: NISHIKUITAN222, sni: t331.ylks.link, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 CloudFlare节点, server: 104.21.48.70, port: 443, type: vmess, uuid: dfbbc8de-8a4f-407d-8069-6de38d83c4e1, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: "", network: grpc, grpc-opts: {grpc-service-name: WgCmp8p80KDzo64uHE}}
-  - {name: 🇰🇷 韩国 KT电信, server: 125.139.249.241, port: 17057, type: trojan, password: NISHIKUITAN222, sni: t331.ylks.link, skip-cert-verify: false}
-  - {name: 🇫🇷 法国 OVH 3, server: 51.77.53.200, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
-  - {name: 🇺🇸 美国 Amazon数据中心, server: 13.38.109.149, port: 15174, type: trojan, password: NBqZHBBQEuuP, sni: appsvs.shop, skip-cert-verify: false}
-  - {name: 🇸🇬 新加坡 Amazon数据中心, server: 18.141.137.36, port: 48357, type: trojan, password: yGcJzk5XRZ, skip-cert-verify: false}
-  - {name: 🇬🇧 英国 V2CROSS.COM, server: 5.44.249.44, port: 3306, type: trojan, password: b84d16a244460e09, sni: n2.gladns.com, skip-cert-verify: false}
-  - {name: 广东省汕头市 移动, server: 183.240.179.207, port: 30013, type: vmess, uuid: 5bd5899a-4b78-4d75-8570-4d21b43422c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇫🇷 法国 OVH 4, server: 51.77.53.200, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
-  - {name: 🇰🇷 韩国 V2CROSS.COM, server: 61.247.83.116, port: 39308, type: trojan, password: NISHIKUITAN222, sni: t331.ylks.link, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 华盛顿州西雅图市亚马逊(Amazon)公司数据中心, server: 35.176.45.45, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: 🇰🇷 韩国 青州, server: 210.126.38.13, port: 33452, type: trojan, password: NISHIKUITAN222, sni: t331.ylks.link, skip-cert-verify: false}
-  - {name: 🇨🇦 加拿大 魁北克省蒙特利尔Amazon数据中心, server: 99.79.71.28, port: 15161, type: trojan, password: eq74BMgvZSgC, sni: appsvs.shop, skip-cert-verify: false}
-  - {name: 🇫🇷 法国 OVH 5, server: 51.77.53.200, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: 🇺🇸 美国 麻省理工学院, server: 18.132.224.51, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: 🇮🇪 爱尔兰 V2CROSS.COM, server: 99.80.246.139, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: 广东省汕头市 移动 2, server: 183.240.179.207, port: 30038, type: vmess, uuid: 5bd5899a-4b78-4d75-8570-4d21b43422c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 华盛顿州, server: 205.134.180.139, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: lWaGPVFjmnag}
-  - {name: 🇫🇷 法国 OVH机房SAS硬盘BGP主机 3, server: 149.202.82.172, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
-  - {name: 🇫🇷 法国 OVH机房SAS硬盘BGP主机 4, server: 149.202.82.172, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
-  - {name: 广东省 移动 3, server: data-hk-v1.usabooks.com.cn, port: 20206, type: vmess, uuid: b1478e24-4916-3abe-8f17-15931012ecbe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /debian, headers: {Host: data-hk-v1.usabooks.com.cn}}}
-  - {name: 🇩🇪 德国 黑森州法兰克福AMazon数据中心, server: 3.121.12.19, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: 🇩🇪 德国 黑森州法兰克福Amazon数据中心, server: 52.57.33.126, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: 🇫🇷 法国 OVH机房SAS硬盘BGP主机 5, server: 149.202.82.172, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
-  - {name: 🇦🇱 阿尔巴尼亚 V2CROSS.COM, server: 109.104.152.126, port: 51122, type: ss, cipher: aes-256-gcm, password: dongtaiwang.com}
-  - {name: 🇫🇷 法国 OVH 6, server: 51.77.53.200, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: 🇫🇷 法国 OVH 7, server: 51.77.53.200, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: 🇺🇸 美国 惠普公司, server: 15.237.214.240, port: 15164, type: trojan, password: a9YcHU9ySIPg, sni: appsvs.shop, skip-cert-verify: false}
-  - {name: 🇫🇷 法国 OVH 8, server: 51.77.53.200, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
-  - {name: 🇫🇷 法国 OVH机房SAS硬盘BGP主机 6, server: 149.202.82.172, port: 9102, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
-  - {name: 🇺🇸 美国 俄勒冈州波特兰Amazon数据中心, server: 52.38.217.54, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: 🇺🇸 美国 惠普公司, server: 15.237.214.240, port: 15296, type: trojan, password: 0a2KN3VXhzys, sni: appsvs.shop, skip-cert-verify: false}
+  - {name: 🇺🇸 美国 CloudFlare节点, server: fcdn.flha.ru, port: 2095, type: vmess, uuid: 7a737f41-b792-4260-94ff-3d864da67b80, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: fcdn.flha.ru}}}
+  - {name: 广东省汕头市 移动, server: 183.240.179.207, port: 30127, type: vmess, uuid: 5bd5899a-4b78-4d75-8570-4d21b43422c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇫🇷 法国 V2CROSS.COM, server: 146.19.247.183, port: 443, type: trojan, password: 62b9172d-cc3a-4001-8172-7804fbf1a09b, sni: aka.ms, skip-cert-verify: false}
+  - {name: 🇺🇸 美国 Microsoft公司, server: 52.151.99.42, port: 58939, type: ss, cipher: chacha20-ietf-poly1305, password: jha5ZXvI7J4CkWQn4iB3AF}
+  - {name: 广东省 移动, server: 120.233.204.126, port: 16632, type: vmess, uuid: d9a9d508-67e1-4929-8bea-8733d5a30c93, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: ee1683cb66f83a1d45e5fdf2e7bdc7dd.mobgslb.tbcache.com}}}
+  - {name: 🇸🇬 新加坡 亚马逊(Amazon)公司数据中心, server: 54.251.155.159, port: 15303, type: trojan, password: 8xnhUXBlYaqQ, sni: appsvs.shop, skip-cert-verify: false}
+  - {name: 广东省佛山市 移动, server: 183.232.199.28, port: 42001, type: vmess, uuid: aaaaaaaa-aaaa-aaaa-aaaa-daaaaaaaaaad, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 广东省江门市 移动, server: 120.238.122.243, port: 40259, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇺🇸 美国 麻省理工学院, server: 18.132.75.225, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: 🇺🇸 美国 CloudFlare节点 2, server: 104.19.53.74, port: 2053, type: trojan, password: 8557692d-c228-48f0-b6f9-50d44d4a2096, sni: tjjd.yzyx1.v6.army, skip-cert-verify: false}
+  - {name: 🇰🇷 韩国 首尔Amazon数据中心, server: 54.180.228.169, port: 15281, type: trojan, password: b3FfHOooxKCP, sni: appsvs.shop, skip-cert-verify: false}
+  - {name: 🇺🇸 美国 CloudFlare节点 3, server: 104.21.20.148, port: 2087, type: trojan, password: f85e2ad7-3e26-4589-b478-b0b15b9b5907, sni: us1.trojanvpn.de, skip-cert-verify: false}
+  - {name: 🇺🇸 美国 Amazon数据中心, server: 13.36.201.168, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: 🇺🇸 美国 CloudFlare节点 4, server: 162.159.9.55, port: 80, type: vmess, uuid: 9133af1b-72e3-40b2-c811-45acaabd0ff0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: hinet.alipay.ovh}}}
+  - {name: 🇺🇸 美国 CloudFlare节点 5, server: 104.19.172.136, port: 8080, type: vmess, uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: oiictw.yydsii.com}}}
+  - {name: 🇺🇸 美国 CloudFlare节点 6, server: 104.21.109.230, port: 443, type: trojan, password: E0002134H, sni: 6504e90a.xpxroject.pages.dev, skip-cert-verify: false}
+  - {name: 🇺🇸 美国 Amazon EC2服务器, server: 3.96.216.111, port: 15292, type: trojan, password: 4Exl0vSFMAua, sni: appsvs.shop, skip-cert-verify: false}
+  - {name: 🇺🇸 美国 伊利诺伊州芝加哥Server Central网络公司, server: 216.246.15.225, port: 30129, type: ss, cipher: aes-128-gcm, password: Yc2CtrIz8L}
   - {name: 广东省佛山市 移动 2, server: 183.232.199.28, port: 21006, type: vmess, uuid: aaaaaaaa-aaaa-aaaa-aaaa-daaaaaaaaaad, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 广东省佛山市 移动 3, server: 183.232.170.47, port: 15611, type: vmess, uuid: aaaaaaaa-aaaa-aaaa-aaaa-daaaaaaaaaad, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇫🇷 法国 OVH 9, server: 51.77.53.200, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
-  - {name: 🇺🇸 美国 Amazon EC2服务器, server: 3.99.183.20, port: 15158, type: trojan, password: 8TENNWZQXsHs, sni: appsvs.shop, skip-cert-verify: false}
-  - {name: 🇷🇺 俄罗斯 莫斯科JustHost, server: 45.147.200.170, port: 31219, type: vmess, uuid: d45f3ae9-ab2e-4d27-a9cf-0257679ec4ff, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇫🇷 法国 OVH 10, server: 51.77.53.200, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇫🇷 法国 OVH机房SAS硬盘BGP主机 2, server: 149.202.82.172, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
+  - {name: 🇺🇸 美国 华盛顿州西雅图市亚马逊(Amazon)公司数据中心, server: 35.176.45.45, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: 🇩🇪 德国 黑森州法兰克福Amazon数据中心, server: 3.125.131.190, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: 🇰🇷 韩国 V2CROSS.COM, server: 61.247.83.116, port: 39308, type: trojan, password: NISHIKUITAN222, sni: t331.ylks.link, skip-cert-verify: false}
   - {name: 🇨🇳 广东省深圳市 移动, server: 183.232.142.47, port: 16632, type: vmess, uuid: 2b8cfb7b-d3e7-4525-8418-e13a9b8fd73b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: dcef278233434a15c3587ef998dd119d.mobgslb.tbcache.com}}}
-  - {name: 🇯🇵 日本 东京Amazon数据中心, server: 13.231.194.134, port: 15170, type: trojan, password: 6oeshJ0lcJGn, sni: appsvs.shop, skip-cert-verify: false}
+  - {name: 🇺🇸 美国 CloudFlare节点 7, server: onea.flha.ru, port: 2095, type: vmess, uuid: 7a737f41-b792-4260-94ff-3d864da67b80, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: onea.flha.ru, network: ws, ws-opts: {path: /, headers: {Host: onea.flha.ru}}}
+  - {name: 🇨🇳 中国 阿里云, server: 8.222.181.139, port: 443, type: trojan, password: NISHIKUITAN222, sni: t331.ylks.link, skip-cert-verify: false}
+  - {name: 🇩🇪 德国 黑森州法兰克福AMazon数据中心, server: 3.121.12.19, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: 广东省佛山市 移动 3, server: 183.232.170.47, port: 15611, type: vmess, uuid: aaaaaaaa-aaaa-aaaa-aaaa-daaaaaaaaaad, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇺🇸 美国 CloudFlare节点 8, server: 104.19.52.78, port: 2053, type: trojan, password: 8557692d-c228-48f0-b6f9-50d44d4a2096, sni: tjjd.yzyx1.v6.army, skip-cert-verify: false}
+  - {name: 🇺🇸 美国 V2CROSS.COM, server: 138.2.116.23, port: 1003, type: trojan, password: NISHIKUITAN222, sni: t331.ylks.link, skip-cert-verify: false}
+  - {name: 🇷🇺 俄罗斯 V2CROSS.COM, server: hk-full.privateip.net, port: 443, type: trojan, password: a451943b-8d62-4917-97d2-db59de7acbb5, skip-cert-verify: false}
+  - {name: 🇩🇪 德国 黑森州法兰克福Amazon数据中心 2, server: 52.57.33.126, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: 🇬🇧 英国 伦敦Amazon数据中心, server: 35.178.44.210, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: 🇺🇸 美国 CloudFlare节点 9, server: 104.21.47.176, port: 443, type: trojan, password: 52701795-3c3b-46b4-b7cf-c5978b3a4cf2, sni: hdfyc1.achaemenidempireofpersia.uk, skip-cert-verify: false}
+  - {name: 🇫🇷 法国 OVH机房SAS硬盘BGP主机 3, server: 149.202.82.172, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v}
+  - {name: 🇺🇸 北美地区 V2CROSS.COM, server: 23.154.136.2, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /}}
+  - {name: 广东省佛山市 移动 4, server: 183.232.199.61, port: 21006, type: vmess, uuid: aaaaaaaa-aaaa-aaaa-aaaa-daaaaaaaaaad, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 广东省江门市 移动 2, server: 120.238.122.250, port: 34414, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇺🇸 美国 Amazon EC2服务器 2, server: 3.22.250.23, port: 15290, type: trojan, password: ZmGnWpKuHzFH, sni: appsvs.shop, skip-cert-verify: false}
+  - {name: 广东省佛山市 移动 5, server: 183.232.199.61, port: 15603, type: vmess, uuid: aaaaaaaa-aaaa-aaaa-aaaa-daaaaaaaaaad, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇺🇸 美国 CloudFlare节点 10, server: 172.67.214.33, port: 2095, type: vmess, uuid: 7a737f41-b792-4260-94ff-3d864da67b80, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: fcdn.flha.ru}}}
+  - {name: 🇺🇸 美国 Amazon数据中心 2, server: 13.59.141.221, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: 🇰🇷 韩国 蘑菇主机BGP数据中心 2, server: 103.214.68.57, port: 10003, type: trojan, password: 6x8HcghsjS, sni: yes998.chickenkiller.com, skip-cert-verify: false}
