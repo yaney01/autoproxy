@@ -1,49 +1,12 @@
-  - {name: 🇫🇷 法国 OVH, server: 51.77.53.200, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: 🇫🇷 法国 OVH机房SAS硬盘BGP主机, server: 149.202.82.172, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: 🇷🇺 俄罗斯 V2CROSS.COM, server: 89.185.84.185, port: 52338, type: ss, cipher: chacha20-ietf-poly1305, password: aXuV8k5a4NFmkphgr5NTlL}
-  - {name: 广东省云浮市 移动, server: 183.232.139.22, port: 53981, type: trojan, password: gkviEOYc, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 CloudFlare节点, server: 172.67.185.218, port: 8080, type: vmess, uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: oiictw.yydsii.com}}}
-  - {name: 🇺🇸 美国 阿里云, server: 47.236.117.48, port: 443, type: trojan, password: NISHIKUITAN222, sni: t000.ylks.link, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 CloudFlare节点 2, server: 104.16.1.10, port: 443, type: trojan, password: qj1Dz1CJmFQRhWr1SP80aA, sni: cdn-21.gsmxreality.com, skip-cert-verify: false}
-  - {name: 广东省云浮市 移动 2, server: 183.232.139.22, port: 4027, type: trojan, password: gkviEOYc, skip-cert-verify: false}
-  - {name: 🇮🇷 伊朗 V2CROSS.COM, server: 31.47.42.34, port: 21491, type: vmess, uuid: c18ec563-b77e-4930-9198-0f59857419d1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇫🇷 法国 OVH 2, server: 51.77.53.200, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: 🇫🇷 法国 OVH 3, server: 51.77.53.200, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
-  - {name: 🇺🇸 美国 CloudFlare节点 3, server: 172.67.172.96, port: 8080, type: vmess, uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: oiictw.yydsii.com}}}
-  - {name: 🇺🇸 美国 CloudFlare节点 4, server: 104.19.47.126, port: 8080, type: vmess, uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: oiictw.yydsii.com}}}
-  - {name: 🇫🇷 法国 OVH 4, server: 51.77.53.200, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
-  - {name: 🇫🇷 法国 V2CROSS.COM, server: 146.19.247.183, port: 443, type: trojan, password: 62b9172d-cc3a-4001-8172-7804fbf1a09b, sni: aka.ms, skip-cert-verify: false}
-  - {name: 🇫🇷 法国 OVH 5, server: 51.77.53.200, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
-  - {name: 🇨🇳 北京市 移动, server: dxcdn02.dorabbb.top, port: 48821, type: vmess, uuid: 404dea84-58af-4e6b-a11b-cbc10e97cf34, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇫🇷 法国 OVH 6, server: 51.77.53.200, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: 🇳🇱 荷兰 V2CROSS.COM, server: 193.29.139.251, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
-  - {name: 🇺🇸 美国 V2CROSS.COM, server: 23.162.200.130, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: 🇫🇷 法国 OVH机房SAS硬盘BGP主机 2, server: 149.202.82.172, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇺🇸 美国 CloudFlare节点 5, server: 104.19.47.18, port: 8080, type: vmess, uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: oiictw.yydsii.com}}}
-  - {name: 🇷🇺 俄罗斯 V2CROSS.COM 2, server: 91.107.173.246, port: 52376, type: ss, cipher: chacha20-poly1305, password: mbmi8kMnljCKOnJaZn0KiwO+mJyjQu5Vnedw3QZesrs=}
-  - {name: 🇰🇷 韩国 V2CROSS.COM, server: 116.47.10.236, port: 27335, type: trojan, password: moist, sni: trojan.freenods.sbs, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 CloudFlare节点 6, server: 104.16.192.155, port: 443, type: trojan, password: e8105dfd24414268b6c7652c63731097, sni: jobscareerfortoday.com, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 CloudFlare节点 7, server: 104.19.47.238, port: 8080, type: vmess, uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: oiictw.yydsii.com}}}
-  - {name: 🇺🇸 美国 华盛顿Cogent通信公司, server: 38.33.34.20, port: 38001, type: vmess, uuid: b65da4af-a12a-4a59-9316-4549e12ba62c, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/191019072927, headers: {Host: www.78274451.xyz}}}
-  - {name: 🇫🇷 法国 OVH机房SAS硬盘BGP主机 3, server: 149.202.82.172, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
-  - {name: 🇺🇸 美国 Akamai科技公司CDN网络节点, server: 172.233.59.172, port: 58683, type: ss, cipher: 2022-blake3-aes-256-gcm, password: gm17CW4GidfxZ0mWLcTxUvbbyIhkaxjxMAfQCTRo5Ug=:l1a66phZiZ3Zvt3aUcOo/lcVCODxOre5J5ZDFmmR5UE=}
-  - {name: 🇺🇸 美国 CloudFlare节点 8, server: 172.67.172.88, port: 8080, type: vmess, uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: oiictw.yydsii.com}}}
-  - {name: 🇸🇬 新加坡 Amazon数据中心, server: 18.139.110.198, port: 14561, type: trojan, password: 4hXf3EErwmZ7, sni: appsvs.shop, skip-cert-verify: false}
-  - {name: 🇩🇪 德国 黑森州法兰克福Amazon数据中心, server: 3.124.12.14, port: 14584, type: trojan, password: BHWuaYtOL3CK, sni: appsvs.shop, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 CloudFlare节点 9, server: 104.19.47.186, port: 8080, type: vmess, uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: oiictw.yydsii.com}}}
-  - {name: 🇫🇷 法国 OVH 7, server: 51.77.53.200, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: 🇫🇷 法国 OVH 8, server: 51.77.53.200, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
-  - {name: 🇫🇷 法国 OVH机房SAS硬盘BGP主机 4, server: 149.202.82.172, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇺🇸 美国 V2CROSS.COM 2, server: 159.246.55.132, port: 443, type: trojan, password: auto, sni: vip.123789.pp.ua, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 CloudFlare节点 10, server: 104.19.47.34, port: 8080, type: vmess, uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: oiictw.yydsii.com}}}
-  - {name: 🇺🇸 美国 加利福尼亚, server: 64.176.173.234, port: 3389, type: vmess, uuid: 9c050a86-d612-48f1-ec32-e573df08a1b7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 CloudFlare节点 11, server: 104.19.47.180, port: 8080, type: vmess, uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: oiictw.yydsii.com}}}
-  - {name: 🇮🇹 意大利 V2CROSS.COM, server: 212.102.53.194, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
-  - {name: 🇨🇳 北京市 移动 2, server: alm1.the-galgo.top, port: 32006, type: vmess, uuid: 4fbc3eea-9b2d-4296-bf65-d9bfa0802958, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 Amazon EC2服务器, server: 3.76.236.211, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 弗吉尼亚州阿什本Amazon数据中心, server: 52.207.209.178, port: 14588, type: trojan, password: ed0WWjtLKU8z, sni: appsvs.shop, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 Amazon EC2服务器 2, server: 3.98.9.224, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 俄勒冈州波特兰Amazon数据中心, server: 54.187.96.220, port: 14568, type: trojan, password: SNvEUKI6ajHs, sni: appsvs.shop, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 Amazon数据中心, server: 13.39.205.237, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: 🇫🇷 法国 OVH 9, server: 51.77.53.200, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v}
-  - {name: 🇵🇱 波兰 V2CROSS.COM, server: 188.116.20.185, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: 3pURuTUf-lFgg5qWg8euFA}
+  - {name: 🇫🇷 法国 OVH机房SAS硬盘BGP主机, server: 149.202.82.172, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 🇫🇷 法国 OVH机房SAS硬盘BGP主机 2, server: 149.202.82.172, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇫🇷 法国 OVH机房SAS硬盘BGP主机 3, server: 149.202.82.172, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇫🇷 法国 OVH机房SAS硬盘BGP主机 4, server: 149.202.82.172, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇺🇸 美国 CloudFlare节点, server: 104.19.47.34, port: 8080, type: vmess, uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: oiictw.yydsii.com}}}
+  - {name: 🇫🇷 法国 OVH, server: 51.77.53.200, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
+  - {name: 🇫🇷 法国 OVH 2, server: 51.77.53.200, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 🇺🇸 美国 华盛顿Cogent通信公司, server: 38.121.43.248, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
+  - {name: 🇫🇷 法国 OVH机房SAS硬盘BGP主机 5, server: 149.202.82.172, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+  - {name: 🇮🇪 爱尔兰 V2CROSS.COM, server: 13.79.72.88, port: 21190, type: ss, cipher: chacha20-ietf-poly1305, password: yoOT6tXP5LdMyyU5IQDcGn}
+  - {name: 🇺🇸 美国 CloudFlare节点 2, server: 198.41.220.2, port: 443, type: trojan, password: 242a3d8eee5e4ed1a6bfa4141d549a25, sni: jobscareerfortoday.com, skip-cert-verify: false}
+  - {name: 🇫🇷 法国 OVH 3, server: 51.77.53.200, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
