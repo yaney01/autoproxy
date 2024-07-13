@@ -521,7 +521,7 @@ high-speed node quantity: `200`
 - you can import these 200 tested nodes using their subscription link into different clients. refer to `Instructions & Usage` section
 
 ### all nodes
-merge nodes w/o dup: `4674`
+merge nodes w/o dup: `4639`
 - [Node link Mixed (V2ray)](https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/sub_merge.txt)
 - [Node link Yaml (Clash)](https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge_yaml.yml)
 
@@ -545,7 +545,9 @@ merge nodes w/o dup: `4674`
 
 ### node sources
 - [pojiezhiyuanjun/freev2](https://github.com/pojiezhiyuanjun/freev2), number of nodes: `122`
-- [mianfeifq/share](https://github.com/mianfeifq/share), number of nodes: `246`
+- [Nodefree.org](https://github.com/Fukki-Z/nodefree), number of nodes: `28`
+- [mianfeifq/share](https://github.com/mianfeifq/share), number of nodes: `219`
+- [FiFier/v2rayShare](https://github.com/FiFier/v2rayShare), number of nodes: `18`
 - [colatiger/v2ray-nodes](https://github.com/colatiger/v2ray-nodes), number of nodes: `121`
 - [ssrsub/ssr](https://github.com/ssrsub/ssr), number of nodes: `551`
 - [mahdibland/ShadowsocksAggregator](https://github.com/mahdibland/ShadowsocksAggregator), number of nodes: `200`
@@ -557,7 +559,7 @@ merge nodes w/o dup: `4674`
 - [wrfree/free](https://github.com/wrfree/free), number of nodes: `51`
 - [anaer/Sub](https://github.com/anaer/Sub), number of nodes: `80`
 - [aiboboxx/v2rayfree](https://github.com/aiboboxx/v2rayfree), number of nodes: `35`
-- [Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers), number of nodes: `105`
+- [Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers), number of nodes: `6`
 - [misersun/config003-002](https://github.com/misersun/config003), number of nodes: `217`
 - [clash.221207.xyz/pubclashyaml](https://clash.221207.xyz/pubclashyaml), number of nodes: `203`
 - [mfuu/v2ray](https://github.com/mfuu/v2ray), number of nodes: `384`
