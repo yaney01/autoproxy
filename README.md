@@ -521,7 +521,7 @@ high-speed node quantity: `200`
 - you can import these 200 tested nodes using their subscription link into different clients. refer to `Instructions & Usage` section
 
 ### all nodes
-merge nodes w/o dup: `4693`
+merge nodes w/o dup: `4696`
 - [Node link Mixed (V2ray)](https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/sub_merge.txt)
 - [Node link Yaml (Clash)](https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge_yaml.yml)
 
@@ -556,7 +556,7 @@ merge nodes w/o dup: `4693`
 - [Jsnzkpg/Jsnzkpg](https://github.com/Jsnzkpg/Jsnzkpg), number of nodes: `1`
 - [ermaozi/get_subscribe](https://github.com/ermaozi/get_subscribe), number of nodes: `20`
 - [wrfree/free](https://github.com/wrfree/free), number of nodes: `51`
-- [anaer/Sub](https://github.com/anaer/Sub), number of nodes: `59`
+- [anaer/Sub](https://github.com/anaer/Sub), number of nodes: `72`
 - [aiboboxx/v2rayfree](https://github.com/aiboboxx/v2rayfree), number of nodes: `149`
 - [Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers), number of nodes: `54`
 - [misersun/config003-002](https://github.com/misersun/config003), number of nodes: `217`
