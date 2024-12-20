@@ -21,23 +21,53 @@
   - {name: 🇺🇸 SS-美国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-150.241.95.63:12271, server: 150.241.95.63, port: 12271, type: ss, cipher: chacha20-ietf-poly1305, password: MDtZ$d1lcz}
   - {name: 🇺🇸 SS-美国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-150.241.95.63:37774, server: 150.241.95.63, port: 37774, type: ss, cipher: chacha20-ietf-poly1305, password: qbY6=zGuFl}
   - {name: 🇫🇷 SS-法国-NF解锁法国自制剧-ChatGPT-TikTok-51.178.87.37:807, server: 51.178.87.37, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇫🇷 法国 国际航空电讯集团公司(SITA), server: 57.155.30.139, port: 80, type: vmess, uuid: b831381d-6324-4d53-ad4f-8cda48b30812, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: 🇷🇺 俄罗斯 V2CROSS.COM, server: 185.242.86.156, port: 54170, type: ss, cipher: chacha20-ietf-poly1305, password: 36ZCHeabUSfKjfQEvJ4HDV}
-  - {name: 🇺🇸 美国 CloudFlare节点, server: server31.beheshtbaneh.com, port: 8880, type: vmess, uuid: 4154143c-bbba-47a4-9f79-c2ed087cbcc9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: server31.beheshtbaneh.com}}}
-  - {name: 🇩🇪 德国 黑森州法兰克福Amazon数据中心, server: 35.158.229.80, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: 🇷🇺 俄罗斯 V2CROSS.COM 2, server: 62.133.63.154, port: 20255, type: ss, cipher: chacha20-ietf-poly1305, password: ebrYpJsRfFtlKuO2HygBoD}
-  - {name: 🇩🇪 德国 V2CROSS.COM, server: service.ouluyun9803.com, port: 26667, type: ss, cipher: chacha20-ietf-poly1305, password: d6105bbd-be0d-45b2-82ad-31fd1071c1d2}
-  - {name: 🇬🇧 英国 伦敦Amazon数据中心, server: 35.179.52.148, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: 欧盟 V2CROSS.COM, server: 45.67.215.95, port: 443, type: trojan, password: tg-fq521free, sni: torjan.xn--xhq44j.eu.org, skip-cert-verify: false, network: ws, ws-opts: {path: "%2F", headers: {Host: torjan.xn--xhq44j.eu.org}}}
+  - {name: 🇮🇹 意大利 V2CROSS.COM, server: 212.102.53.194, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
+  - {name: 🇩🇪 德国 V2CROSS.COM, server: 194.76.18.129, port: 443, type: trojan, password: tg-fq521free, sni: torjan.xn--xhq44j.eu.org, skip-cert-verify: false, network: ws, ws-opts: {path: "%2F", headers: {Host: torjan.xn--xhq44j.eu.org}}}
+  - {name: 🇨🇳 广东省广州市荔湾区 /天河区电信, server: 219.135.227.209, port: 16015, type: ss, cipher: aes-256-gcm, password: CVPPFA5LEN1NRWWO}
+  - {name: 🇸🇬 新加坡 V2CROSS.COM, server: 152.70.115.209, port: 45800, type: trojan, password: xjN4xcuPGg55, sni: h.522226.xyz, skip-cert-verify: false}
+  - {name: 🇮🇳 印度 V2CROSS.COM, server: 202.78.162.5, port: 443, type: vmess, uuid: 2ff97c6d-8557-42a4-b43f-19c77c5959ea, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: irsoft.sytes.net}}}
+  - {name: 🇺🇸 美国 V2CROSS.COM, server: 69.50.95.53, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
   - {name: 广东省湛江市 移动, server: 120.198.71.214, port: 34493, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇷🇺 俄罗斯 V2CROSS.COM 2, server: 176.32.32.68, port: 48696, type: vmess, uuid: f6a9a9e0-224f-4140-94dd-ec0830292db5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}}
+  - {name: 🇫🇷 法国 国际航空电讯集团公司(SITA), server: 57.155.31.98, port: 80, type: vmess, uuid: b831381d-6324-4d53-ad4f-8cda48b30812, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇺🇸 美国 Xerox, server: 13.51.33.19, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: 🇨🇳 江苏省 移动, server: 36.151.192.239, port: 42395, type: trojan, password: DNUMdmnJ, skip-cert-verify: false}
   - {name: 🇨🇳 广东省广州市 移动, server: 183.236.51.23, port: 41020, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇸🇪 瑞典 斯德哥尔摩Amazon数据中心, server: 13.48.170.49, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: 🇺🇸 美国 Amazon EC2服务器, server: 3.75.40.101, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: 🇸🇬 新加坡 V2CROSS.COM 2, server: h.522226.xyz, port: 45800, type: trojan, password: xjN4xcuPGg55, skip-cert-verify: false}
+  - {name: 🇨🇳 广东省广州市 移动 2, server: 183.236.51.23, port: 53002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇩🇪 德国 黑森州法兰克福Amazon数据中心, server: 35.158.229.80, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: 🇮🇳 印度 V2CROSS.COM 2, server: 202.78.162.5, port: 443, type: vmess, uuid: 118287d2-e968-42e1-80d0-12fa2f5d38d6, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: sahand.serveminecraft.net}}}
+  - {name: 🇺🇸 美国 Amazon EC2服务器 2, server: 3.147.48.100, port: 36325, type: ss, cipher: chacha20-ietf-poly1305, password: 4p8Xip5R50r2guWgrffLUg}
+  - {name: 🇫🇷 法国 国际航空电讯集团公司(SITA) 2, server: 57.155.30.207, port: 80, type: vmess, uuid: b831381d-6324-4d53-ad4f-8cda48b30812, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇺🇸 美国 Amazon EC2服务器 3, server: 3.99.25.6, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: 🇺🇸 美国 V2CROSS.COM 2, server: 69.50.95.53, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇷🇺 俄罗斯 V2CROSS.COM 3, server: 62.133.63.154, port: 20255, type: ss, cipher: chacha20-ietf-poly1305, password: ebrYpJsRfFtlKuO2HygBoD}
   - {name: 🇬🇧 高性价比机场:https://kfyun.uk, server: 127.0.0.1, port: 443, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3}
-  - {name: 0|--1, server: 69.50.95.53, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
-  - {name: 0|--3, server: 79.110.53.169, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6}
-  - {name: 0|--4, server: 43.200.1.13, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 0|--1, server: 3.34.255.220, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 0|--2, server: 217.30.10.18, port: 9050, type: ss, cipher: aes-256-cfb, password: FG5ddLsMPbV5CutE}
+  - {name: 0|--3, server: 217.30.10.18, port: 9064, type: ss, cipher: aes-256-cfb, password: cp8pRSUAyLhTfVWH}
+  - {name: 0|--4, server: 69.50.95.53, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 0|--5, server: 212.102.53.194, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
+  - {name: 0|--6, server: 69.50.95.53, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
+  - {name: 0|--8, server: 34.222.132.123, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 0|--9, server: 3.38.212.48, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 0|--10, server: 217.30.10.18, port: 9031, type: ss, cipher: aes-256-cfb, password: BwcAUZk8hUFAkDGN}
+  - {name: 0|--11, server: 217.30.10.18, port: 9018, type: ss, cipher: aes-256-cfb, password: fG2artUmHfNT2cX7}
+  - {name: 0|--12, server: 3.36.65.244, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 0|--14, server: 54.201.174.149, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 0|--15, server: 149.34.244.82, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
+  - {name: 0|--16, server: 34.222.136.128, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: "🇯🇵 0,13|🇯🇵 日本特殊|@ripaojiedian", server: 43.203.243.93, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: 0|--7, server: 212.102.53.194, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
-  - {name: 0|--9, server: 54.70.176.73, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: 0|--10, server: 54.218.229.170, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 0|--18, server: 43.203.141.93, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 0|--19, server: 38.111.114.114, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
+  - {name: 0|--20, server: 43.200.1.13, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 0|--21, server: 54.218.229.170, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 0|--22, server: 217.30.10.18, port: 9038, type: ss, cipher: aes-256-cfb, password: gYCYXfkUQEs2TaJQ}
+  - {name: "0,15|JP_speednode_0012", server: fun-ostrich.treefrog761.one, port: 443, type: trojan, password: !<str> 3648425794742788096, sni: fun-ostrich.treefrog761.one, skip-cert-verify: false}
   - {name: "🇭🇰 13,14|香港|@ripaojiedian", server: 36.151.192.239, port: 42395, type: trojan, password: DNUMdmnJ, skip-cert-verify: false}
   - {name: "🇭🇰 13,14|香港2|@ripaojiedian", server: 223.113.54.145, port: 36442, type: trojan, password: QwwHvrnN, skip-cert-verify: false}
   - {name: 🇭🇰 13|🇭🇰 香港3|@ripaojiedian, server: 219.135.227.209, port: 15007, type: ss, cipher: aes-256-gcm, password: KGPWD7ZZY2F0ZYPY}
@@ -77,7 +107,6 @@
   - {name: 15|CN_speednode_0006, server: 123.125.94.170, port: 1466, type: trojan, password: d4f89111885.wns.windows.com, skip-cert-verify: false}
   - {name: 15|CN_speednode_0007, server: 123.125.94.170, port: 1466, type: trojan, password: d4f89111885.wns.windows.com, sni: frsource1.mzsourcenode.info, skip-cert-verify: false}
   - {name: 15|CN_speednode_0008, server: 123.125.94.170, port: 1606, type: trojan, password: d4f89111885.wns.windows.com, sni: rusource1.mzsourcenode.info, skip-cert-verify: false}
-  - {name: 15|JP_speednode_0012, server: fun-ostrich.treefrog761.one, port: 443, type: trojan, password: !<str> 3648425794742788096, sni: fun-ostrich.treefrog761.one, skip-cert-verify: false}
   - {name: 15|KZ_speednode_0014, server: 194.76.18.129, port: 443, type: trojan, password: tg-fq521free, sni: torjan.xn--xhq44j.eu.org, skip-cert-verify: false, network: ws, ws-opts: {path: "%2F", headers: {Host: torjan.xn--xhq44j.eu.org}}}
   - {name: 15|RU_speednode_0020, server: 45.67.215.95, port: 443, type: trojan, password: tg-fq521free, sni: torjan.xn--xhq44j.eu.org, skip-cert-verify: false, network: ws, ws-opts: {path: "%2F", headers: {Host: torjan.xn--xhq44j.eu.org}}}
   - {name: 15|US_speednode_0031, server: 198.62.62.67, port: 443, type: trojan, password: tg-fq521free, sni: torjan.xn--xhq44j.eu.org, skip-cert-verify: false, network: ws, ws-opts: {path: "%2F", headers: {Host: torjan.xn--xhq44j.eu.org}}}
