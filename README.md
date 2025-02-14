@@ -558,7 +558,7 @@ merge nodes w/o dup: `5439`
 - [wrfree/free](https://github.com/wrfree/free), number of nodes: `51`
 - [anaer/Sub](https://github.com/anaer/Sub), number of nodes: `68`
 - [aiboboxx/v2rayfree](https://github.com/aiboboxx/v2rayfree), number of nodes: `80`
-- [Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers), number of nodes: `18`
+- [Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers), number of nodes: `22`
 - [misersun/config003-002](https://github.com/misersun/config003), number of nodes: `217`
 - [clash.221207.xyz/pubclashyaml](https://clash.221207.xyz/pubclashyaml), number of nodes: `201`
 - [mfuu/v2ray](https://github.com/mfuu/v2ray), number of nodes: `384`
