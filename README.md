@@ -544,7 +544,7 @@ merge nodes w/o dup: `5545`
 
 
 ### node sources
-- [pojiezhiyuanjun/freev2](https://github.com/pojiezhiyuanjun/freev2), number of nodes: `84`
+- [pojiezhiyuanjun/freev2](https://github.com/pojiezhiyuanjun/freev2), number of nodes: `138`
 - [Nodefree.org](https://github.com/Fukki-Z/nodefree), number of nodes: `28`
 - [FiFier/v2rayShare](https://github.com/FiFier/v2rayShare), number of nodes: `18`
 - [colatiger/v2ray-nodes](https://github.com/colatiger/v2ray-nodes), number of nodes: `121`
@@ -554,14 +554,14 @@ merge nodes w/o dup: `5545`
 - [DoveBoy/Vmess-Actions](https://github.com/ldir92664/Vmess-Actions), number of nodes: `105`
 - [gooooooooooooogle/Clash-Config](https://github.com/gooooooooooooogle/Clash-Config), number of nodes: `1`
 - [Jsnzkpg/Jsnzkpg](https://github.com/Jsnzkpg/Jsnzkpg), number of nodes: `19`
-- [ermaozi/get_subscribe](https://github.com/ermaozi/get_subscribe), number of nodes: `19`
+- [ermaozi/get_subscribe](https://github.com/ermaozi/get_subscribe), number of nodes: `7`
 - [wrfree/free](https://github.com/wrfree/free), number of nodes: `51`
 - [anaer/Sub](https://github.com/anaer/Sub), number of nodes: `98`
 - [aiboboxx/v2rayfree](https://github.com/aiboboxx/v2rayfree), number of nodes: `4`
-- [Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers), number of nodes: `24`
+- [Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers), number of nodes: `22`
 - [misersun/config003-002](https://github.com/misersun/config003), number of nodes: `217`
 - [clash.221207.xyz/pubclashyaml](https://clash.221207.xyz/pubclashyaml), number of nodes: `201`
-- [mfuu/v2ray](https://github.com/mfuu/v2ray), number of nodes: `217`
+- [mfuu/v2ray](https://github.com/mfuu/v2ray), number of nodes: `183`
 - [freefq/free](https://github.com/freefq/free), number of nodes: `14`
 - [xiyaowong/freeFQ](https://github.com/xiyaowong/freeFQ), number of nodes: `156`
 - [YasserDivaR/pr0xy](https://github.com/YasserDivaR/pr0xy), number of nodes: `621`
